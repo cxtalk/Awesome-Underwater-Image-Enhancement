@@ -55,4 +55,4 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 * The above content is constantly updated, welcome continuous attention!
 
 ## 5 Contact
-* If you have any question, please feel free to contact me. (Email: cx@lowlevelcv.com)
+* If you have any question, please feel free to contact me. (Email: xchen@kupixel.com)
